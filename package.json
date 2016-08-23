@@ -1,0 +1,16 @@
+{
+  "name": "node-file-uploader",
+  "version": "1.0.0",
+  "description": "node upload ProgressBar",
+  "main": "app.js",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "beginman",
+  "license": "ISC"
+}
